@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Whiz-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Word-Whiz-Website/static/js/main.7af9835e.js",
+    "static/js/787.587eed73.chunk.js": "/Word-Whiz-Website/static/js/787.587eed73.chunk.js",
+    "index.html": "/Word-Whiz-Website/index.html",
+    "main.073c9b0a.css.map": "/Word-Whiz-Website/static/css/main.073c9b0a.css.map",
+    "main.7af9835e.js.map": "/Word-Whiz-Website/static/js/main.7af9835e.js.map",
+    "787.587eed73.chunk.js.map": "/Word-Whiz-Website/static/js/787.587eed73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7af9835e.js"
+  ]
+}
